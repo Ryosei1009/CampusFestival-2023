@@ -1,0 +1,74 @@
+@media screen and (max-width: 958px) {
+    .home .title img{
+        padding-top: 380px;
+    }
+
+    .home .title img{
+        width: 600px;
+    }
+
+    .slogan .body {
+        flex-direction: column;
+    }
+
+    .slogan .body .text {
+        border-left: 0px solid white;
+        border-top: 4px solid white;
+    }
+    
+    .slogan .body .img {
+        width: 90%;
+        padding: 40px 0px 40px 0px;
+    }
+    
+    .slogan .body .text {
+        width: 90%;
+        padding: 20px 0px 30px 0px;
+    }
+
+    .slogan .title {
+        font-size: 60px;
+    }
+
+    .timetable .body {
+        margin: 0px 50px 0px 100px;
+    }
+
+    .timetable .body .program .right .name {
+        font-size: 40px;
+    }
+
+    .access {
+        margin: 50px 50px 50px 50px;
+        border-radius: 30px;
+        background-color: rgba(0, 0, 0, 0.325);
+        padding: 20px 40px 40px 40px;
+    }
+
+    .access .body, .zoom .body{
+        flex-direction: column;
+    }
+
+    .access .body .left iframe {
+        width: 520px; 
+        height: 450px;
+    }
+
+    .zoom .body .left img {
+        width: 520px; 
+        height: 520px;
+    }
+
+    .access .body .right, .zoom .body .right {
+        border-left: 0px solid white;
+        border-top: 4px solid white;
+        width: 90%;
+        font-size: 35px;
+        padding: 20px 0px 30px 0px;
+    }
+
+    .access .body .left, .zoom .body .left {
+        width: 90%;
+        padding: 40px 0px 40px 0px;
+    }
+}

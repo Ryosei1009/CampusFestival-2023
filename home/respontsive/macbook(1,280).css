@@ -1,0 +1,32 @@
+@media screen and (max-width: 1440px) {
+    .slogan .body .text {
+        font-size: 20px;
+    }
+    
+    .slogan {
+        margin: 50px 100px 50px 100px;
+    }
+    
+    .timetable .body {
+        margin: 0px 150px 0px 150px;
+    }
+
+    .timetable .body .program .right .time {
+        font-size: 40px;
+    }
+
+    .timetable .body .program .right .name {
+        font-size: 60px;
+    }
+    .access .body .left iframe {
+        width: 500px; 
+        height: 450px; 
+    }
+    .zoom .body .left img {
+        width: 500px; 
+        height: 500px; 
+    }
+    .access .body .right, .zoom .body .right {
+        font-size: 35px;
+    }
+}

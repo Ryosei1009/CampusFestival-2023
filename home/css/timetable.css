@@ -1,0 +1,41 @@
+.timetable .title {
+    font-size: 70px;
+    padding-left: 150px;
+}
+
+.timetable .body {
+    padding: 20px 20px 20px 20px;
+    border-left: 4px solid white;
+    margin: 0px 300px 0px 300px;
+}
+
+.timetable .body .program {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.timetable .body .program .left img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.timetable .body .program .right {
+    width: 60%;
+    margin-left: 30px;
+}
+
+
+.timetable .body .program .right .time {
+    padding-left: 20px;
+    font-size:50px;
+}
+
+
+.timetable .body .program .right .name {
+    font-size:70px;
+}
+
+.timetable .body .program .left {
+    width: 40%;
+}

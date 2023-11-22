@@ -1,0 +1,84 @@
+@media screen and (max-width: 767px) {
+    .home .title img{
+        padding-top: 240px;
+        width: 380px;
+    }
+
+    .slogan {
+        margin: 20px;
+        padding: 10px 10px 0px 10px;
+    }
+
+    .slogan .title {
+        font-size: 50px;
+        padding: 5px;
+        padding-left: 20px;
+    }
+
+    .slogan .body .img img {
+        width: 95%;
+    }
+
+    .slogan .body .text {
+        font-size: 15px;
+    }
+
+    .timetable .title {
+        font-size: 50px;
+        padding-left: 30px;
+    }
+
+    .timetable .body {
+        margin: 0px 0px 0px 30px;
+        padding: 20px 0px 20px 10px;
+    }
+
+    .timetable .body .program .right .time {
+        padding-left: 20px;
+        font-size:25px;
+    }
+    
+    
+    .timetable .body .program .right .name {
+        font-size:20px;
+        padding: 0px 10px 0px 10px;
+    }
+    
+    .timetable .body .program .right {
+        width: 70%;
+        margin-left: 10px;
+    }
+    
+    .timetable .body .program .left {
+        width: 30%;
+    }
+
+    .access, .zoom {
+        margin: 20px;
+        padding: 10px 10px 0px 10px;
+    }
+    .access .title, .zoom .title {
+        font-size: 45px;
+        padding-left: 20px;
+    }
+
+    .access .body .left, .zoom .body .left {
+        width: 95%;
+        padding: 10px 0px 20px 0px;
+    }
+
+    .access .body .right, .zoom .body .right {
+        width: 95%;
+        font-size: 17px;
+    }
+
+    .access .body .left iframe {
+        width: 283px;
+        height: 250px; 
+    }
+
+    .zoom .body .left img {
+        width: 283px;
+        height: 283px; 
+    }
+}

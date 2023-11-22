@@ -1,0 +1,42 @@
+.slogan {
+    margin: 50px 200px 50px 200px;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.325);
+    padding: 20px 40px 40px 40px;
+}
+
+.slogan .title {
+    font-size: 70px;
+}
+
+.slogan .body {
+    display: flex;
+    align-items: center;
+}
+
+.slogan .body .img img {
+    width: 85%;
+}
+
+.slogan .body .img {
+    text-align: center;
+    align-items: center;
+}
+
+.slogan .body .text {
+    font-size: 25px;
+    padding-left: 30px;
+    border-left: 4px solid white;
+}
+
+.slogan .body .img {
+    width: 40%;
+}
+
+.slogan .body .text {
+    width: 60%;
+}
+
+.slogan .body .text a {
+    color: white;
+}

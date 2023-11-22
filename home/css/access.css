@@ -1,0 +1,45 @@
+.access {
+    margin: 50px 50px 50px 50px;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.325);
+    padding: 20px 40px 40px 40px;
+}
+
+.access .title {
+    font-size: 70px;
+}
+
+.access .body {
+    display: flex;
+    align-items: center;
+}
+
+.access .body .left iframe {
+    width: 700px; 
+    height: 450px; 
+    border-radius: 30px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.access .body .left {
+    text-align: center;
+    align-items: center;
+}
+
+.access .body .right {
+    font-size: 45px;
+    padding-left: 30px;
+    border-left: 4px solid white;
+}
+
+.access .body .left {
+    width: 45%;
+}
+
+.access .body .right {
+    width: 55%;
+}
+
+.access .body .right a {
+    color: white;
+}
