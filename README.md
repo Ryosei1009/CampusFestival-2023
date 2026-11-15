@@ -15,6 +15,25 @@
 
 前年の [2022 年版](https://github.com/Ryosei1009/CampusFestival-2022) はテンプレートを使って作りましたが、今回はテンプレートを使わずに作っています。
 
+## スクリーンショット
+
+**トップページ**：スローガン「Takamatsu;Gate 異世代間のインタラクト」のメインビジュアルです。
+
+<table>
+  <tr>
+    <td><img src="docs/images/top.png" width="560" alt="トップページ（デスクトップ）：時計を背景にしたメインビジュアル"></td>
+    <td><img src="docs/images/top_sp.png" width="200" alt="トップページ（スマホ）"></td>
+  </tr>
+</table>
+
+**Slogan**：スローガンに込めた意味を紹介しています。
+
+![Slogan セクション：ロゴとスローガンの説明](docs/images/slogan.png)
+
+**Access**：会場の地図と、最寄り駅からの道のりです。
+
+![Access セクション：Google マップと住所・最寄り駅](docs/images/access.png)
+
 ## ページ構成
 
 | セクション | 内容 |
